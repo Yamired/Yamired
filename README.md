@@ -85,15 +85,16 @@
 
 
 ## Statistiques  
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamired&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamired&hide_border=true&layout=compact&theme=onedark&border_radius=32" align="center" /></div>
 
-</td><td valign="top" width="50%">
+</td><td>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yamired&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yamired&show_icons=true&theme=onedark&count_private=true&border_radius=32&hide_border=true" align="center" style="width: 100%" /></div>
 
-</td></tr></table>  
+</td></tr></table> 
+
 
 <br/>  
 
