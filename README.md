@@ -1,7 +1,9 @@
 # **<div align="center">I'm Corentin Derimay, full-stack web developer 👨🏼‍💻, IT/development project manager 👷🏼‍♂️, student 👨🏼‍🎓 and trainee 🚀.</div>**  
   
+{{ $diff := now.Sub (time 2000-12-14) }}
+{{ $years := div (div $diff.Hours 24) 365 }}
 
-- 👴🏼 21yo  
+- 👴🏼 {{ math.Floor $years }}yo  
   
 
 - 🎓 Master <ins>*"Manager de Solutions Digitales & Data"*</ins> (MS2D)
