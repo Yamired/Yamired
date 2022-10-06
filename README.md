@@ -1,13 +1,13 @@
-# **<div align="center">Je suis Corentin Derimay,  développeur web full-stack 👨🏼‍💻, chef de projet informatique 👷🏼‍♂️, étudiant 👨🏼‍🎓 et apprenti 🚀.</div>**  
+# **<div align="center">I'm Corentin Derimay, full-stack web developer 👨🏼‍💻, IT/development project manager 👷🏼‍♂️, student 👨🏼‍🎓 and trainee 🚀.</div>**  
   
 
-- 👴🏼 21 ans  
+- 👴🏼 21yo  
   
 
-- 🎓 Mastère <ins>*"Manager de Solutions Digitales & Data"*</ins> (MS2D)
+- 🎓 Master <ins>*"Manager de Solutions Digitales & Data"*</ins> (MS2D)
   
 
-- 📍 Bourges, Cher || Nevers, Nièvre  
+- 📍 Bourges, Cher - France  
   
 
 - 🏙 [Lacoste Dactyl Bureau & École](https://www.lacostedbe.fr/)  
@@ -16,7 +16,7 @@
 <br/>  
 
 
-## Mes compétences  
+## My skills  
 <table><tr><td valign="top" width="33%">
 
 
@@ -67,7 +67,7 @@
 <br/>  
 
 
-## Rejoignez-moi !  
+## Join me !  
 <div align="center">
 <a href="https://github.com/Yamired" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -84,7 +84,7 @@
 <br/>  
 
 
-## Statistiques  
+## Stats  
 <table align="center"><tr><td>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamired&hide_border=true&layout=compact&theme=onedark&border_radius=32" align="center" /></div>
